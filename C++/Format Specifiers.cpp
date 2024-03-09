@@ -1,4 +1,4 @@
-//Format specifiers
+//Format specifiers in C++
 #include <iostream>
 #include <cstdio>
 using namespace std;
