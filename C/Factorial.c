@@ -1,3 +1,4 @@
+// Factorial in C without using recursion
 #include <stdio.h>
 #include <conio.h>
 void main () {
